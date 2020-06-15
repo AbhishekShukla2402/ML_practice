@@ -1,0 +1,1 @@
+Basic implementation of Logistic Regression. Data is generated through numpy functions, very small dataset generated simply for practice purposes.
